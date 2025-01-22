@@ -1,0 +1,9 @@
+scipy
+matplotlib
+scikit-learn
+numpy==1.19.1
+tensorflow==1.15.0
+tensorboard==1.15.0
+tensorflow-estimator==1.15.1
+keras==2.2.4
+pandas==0.24.0 
